@@ -1,0 +1,13 @@
+# Enter your personal information and delete unused entries
+--- 
+- first: Zhijun
+  last: Wei
+  watiam: z29wei
+  student: 21027550
+  email: z29wei@uwaterloo.ca
+- first: Mustafa Mujahed
+  last: Khan
+  watiam: mm5khan
+  student: 21049384
+  email: mm5khan@uwaterloo.ca
+...
